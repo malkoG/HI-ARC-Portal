@@ -1,0 +1,7 @@
+__pycache__/
+*.sqlite3
+node_modules/
+*~
+*.py[cod]
+.cache/
+static/
