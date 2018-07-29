@@ -44,6 +44,7 @@ INSTALLED_APPS = [
 
     # INTERNAL APPS
     'boards.apps.BoardsConfig',
+    'appliers.apps.AppliersConfig',
     'frontend'
 ]
 
